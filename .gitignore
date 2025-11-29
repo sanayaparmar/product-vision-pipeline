@@ -1,0 +1,14 @@
+# Environment Variables (NEVER commit these!)
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment (if you use one)
+venv/
+env/
